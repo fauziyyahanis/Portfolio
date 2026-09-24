@@ -20,15 +20,21 @@ h1 {
     margin-bottom: 20px;
 }
 
+h1 + p {
+    font-size: 20px;
+    margin-bottom: 60px;
+    color: #555;
+}
+
 h2 {
     font-size: 30px;
-    margin-top: 70px;
+    margin-top: 60px;
     margin-bottom: 30px;
 }
 
 h3 {
     font-size: 22px;
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 15px;
 }
 
@@ -37,7 +43,10 @@ p {
     color: #555;
 }
 
-h1 + p {
-    font-size: 20px;
-    margin-bottom: 60px;
+ul {
+    margin-left: 25px;
+}
+
+li {
+    margin-bottom: 10px;
 }
